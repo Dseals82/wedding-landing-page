@@ -20,4 +20,21 @@ body {
 
 #card-text{
   padding: 1rem;
+
+}
+
+.main-text {
+  margin-top: 5rem;
+  color: white;
+  font-weight: 700;
+  font-size: 4rem;
+}
+
+.main-text-two {
+  color: white;
+  font-weight: bold;
+}
+
+.fas {
+  font-size: 2rem;
 }
