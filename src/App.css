@@ -20,6 +20,8 @@ body {
 
 #card-text{
   padding: 1rem;
+  margin-top: 0.5rem;
+  font-weight: bold;
 
 }
 
@@ -37,4 +39,5 @@ body {
 
 .fas {
   font-size: 2rem;
+  color: #ba0001;
 }
