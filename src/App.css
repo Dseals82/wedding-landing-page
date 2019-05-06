@@ -4,6 +4,7 @@
 
 body {
   background: #fff;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .jumbotron {
@@ -22,14 +23,15 @@ body {
   padding: 1rem;
   margin-top: 0.5rem;
   font-weight: bold;
+  margin-bottom: -1rem;
 
 }
 
 .main-text {
-  margin-top: 5rem;
+  margin-top: 1rem;
   color: white;
   font-weight: 700;
-  font-size: 4rem;
+  font-size: 8rem;
 }
 
 .main-text-two {
@@ -37,7 +39,15 @@ body {
   font-weight: bold;
 }
 
-.fas {
+.fas, .far {
   font-size: 2rem;
   color: #ba0001;
+  padding: 1rem;
+}
+
+.lovely {
+  /* font-family: 'Lovers Quarrel', cursive; */
+  /* font-family: 'Love Ya Like A Sister', cursive; */
+   /* font-family: 'Loved by the King', cursive; */
+  font-family: 'Seaweed Script', cursive;
 }
