@@ -26,10 +26,10 @@ function App() {
       </div>
     </nav>
       <div className="jumbotron jumbotron-fluid ">
-        <h1 className="main-text lovely">Some Text Goes Here</h1>
+        <h1 className="main-text lovely">Sealed With a Kiss</h1>
         <div className="container">
           <h4 className="main-text-two">
-            "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+            "Cinematic videography and photography..."
           </h4>
         </div>
       </div>

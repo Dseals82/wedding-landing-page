@@ -21,9 +21,10 @@ body {
 
 #card-text{
   padding: 1rem;
-  margin-top: 0.5rem;
+  margin-top: 1rem;
   font-weight: bold;
-  margin-bottom: -1rem;
+  margin-bottom: 1rem;
+  font-size: 45px;
 
 }
 
@@ -50,4 +51,24 @@ body {
   /* font-family: 'Love Ya Like A Sister', cursive; */
    /* font-family: 'Loved by the King', cursive; */
   font-family: 'Seaweed Script', cursive;
+}
+
+@media (max-width: 600px){
+  .lovely {
+    /* font-family: 'Lovers Quarrel', cursive; */
+    /* font-family: 'Love Ya Like A Sister', cursive; */
+     /* font-family: 'Loved by the King', cursive; */
+    font-family: 'Seaweed Script', cursive;
+    font-size: 80px;
+    padding: 1rem;
+  }
+  .main-text-two {
+    padding: 1rem;
+    font-size: 15px;
+  }
+  #card-text{
+    font-size: 45px;
+
+  }
+
 }
